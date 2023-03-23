@@ -4,6 +4,10 @@ Repositorio para que puedas practicar con tu primer Github Pull Request
 
 ### Agrega tu nombre en la lista en orden alfabetico junto al link de tu Github (La lista de nombres esta abajo)
 
+### Opcion 1. Completa el proceso en tu computadora (Local)
+
+1. Haz Fork al proyecto:
+
 ### Opcion 2. Completa el proceso en Github (En tu navegador)
 
 1. Haz Fork al proyecto:
