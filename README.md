@@ -160,6 +160,7 @@ Hurray! You successfully made your first contribution! 🎉
 | [Back To Top](#contents) |
 
 - ### **L**
+- [Leerot](http://github.com/leerotbyte)
 
 | [Back To Top](#contents) |
 
