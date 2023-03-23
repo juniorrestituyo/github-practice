@@ -20,3 +20,10 @@ Repositorio para que puedas practicar con tu primer Github Pull Request
 
 - Arriba a la derecha del archivo Readme.md, haz click en el icono del lapiz para editar el archivo agregando tu nombre.
 - Despues de editar el archvio Readme.md, agrega un commit con un comentario y haz click en el boton verde que dice "Commit Changes". Asegurate que estas en el branch que creaste para la ediccion.
+
+4. Levanta un Pull Request:
+
+- Haz click en `Pull Requests` (Es la tercera opcion que se encuentra arriba despues de las opciones `Code` y `Issues`).
+- Haz click en el boton verde `New Pull Request`. Esto preparada un nuevo pull request para ti auto-filling el repositorio base: base con 'juniorrestituyo: main' AND auto-filling tu repositorio: comparado con tu repositorio: main
+- Haz click en `compare` en tu repositorio, y cambia el branch de 'main' al branch que hiciste '<new branch name>'.
+- Finalmente, haz click en el boton verde `Create Pull Request`. Gret Job! You did it!
