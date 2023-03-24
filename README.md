@@ -108,7 +108,7 @@ Hurray! You successfully made your first contribution! 🎉
 
 ---
 
-## `Comunidad`
+## `Lista de Nombres`
 
 ### **Contents**
 
