@@ -8,7 +8,7 @@ Repositorio para que puedas practicar con tu primer Github Pull Request
 
 1. Haz Fork al proyecto:
 
-- Haz click al boton gris <kbd>Fork</kbd> que se encuentra arriba a la derecha de esta pagina. Esto creara una copia del proyecto o lo guardara como un nuevo repositorio en tu cuenta de Github.
+- Haz click al boton gris <kbd>Fork</kbd> que se encuentra arriba a la derecha de esta pagina. Esto creara una copia del proyecto y lo guardara como un nuevo repositorio en tu cuenta de Github.
 
 2. Clona tu nuevo repositorio en tu computadora:
 
