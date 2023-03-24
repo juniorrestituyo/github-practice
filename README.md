@@ -210,6 +210,7 @@ Hurray! You successfully made your first contribution! 🎉
 | [Back To Top](#contents) |
 
 - ### **R**
+- [Roberto Jr. Restituyo](http://github.com/juniorrestituyo)
 
 | [Back To Top](#contents) |
 
