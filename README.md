@@ -91,7 +91,7 @@ o
 > **Warning**: Si te da un mensaje de error como el que muestro debajo, probablemente hayas olvidado hacer fork al repositorio antes de clonarlo en tu computadora. Lo mejor es empezar de nuevo y hacer fork al proyecto primero.
 
 ```bash
-ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+ERROR: Permission to juniorrestituyo/github-practice.git denied to <tu-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
