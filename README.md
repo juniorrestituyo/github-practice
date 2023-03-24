@@ -98,9 +98,9 @@ Please make sure you have the correct access rights and that the repository exis
 
 8. Levanta un Pull Request:
 
-- Ve a la pagina de Github, luego a tu proyecto - arriba en la seccion de los archivos, veras un nuevo boton que indica `Compare & Pull Request`
+- Ve a Github, luego a tu repositorio - arriba en la seccion de los archivos, veras un nuevo boton que indica `Compare & Pull Request`
 
-- Haz click en ese boton, esto te enviara a una nueva pagina, comparando el branch local contra el repositorio al que hiciste fork. Haz click en el boton verde `Create Pull Request`.
+- Haz click en ese boton, esto te enviara a una nueva pagina, comparando tu branch local contra el repositorio original al que hiciste fork. Haz click en el boton verde `Create Pull Request`.
 
 Nota: un Pull Request te permite unir tus cambios con el proyecto original.
 
