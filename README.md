@@ -4,18 +4,18 @@ Repositorio para que puedas practicar con tu primer Github Pull Request
 
 ### Agrega tu nombre en la lista en orden alfabetico junto al link de tu Github (La lista de nombres esta abajo)
 
-### Opcion 1. Completa el proceso en tu computadora (Local)
+### Proceso para completar en tu computadora (Local)
 
 1. Haz Fork al proyecto:
 
-- Haz click al boton gris <kbd>Fork</kbd> que se encuentra arriba a la derecha de esta pagina. Esto creara una copia del proyecto o lo guardara como un nuevo repositorio en tu cuenta de Github.
+- Haz click al boton gris <kbd>Fork</kbd> que se encuentra arriba a la derecha de esta pagina. Esto creara una copia del proyecto y lo guardara como un nuevo repositorio en tu cuenta de Github.
 
 2. Clona tu nuevo repositorio en tu computadora:
 
 - Ve a tu perfil. Encontraras el nuevo repositorio llamado **_github-practice_**. Haz click en el.
-- Haz click en el boton verde `Code`, luego cualquiera de la HTTPS o SSH option, y, haz click en el icono para copiar la URL. Ahora tienes una copia del proyecto. Podras trabajar con el desde tu computadora.
+- Haz click en el boton verde `Code`, luego puede elegir entre HTTPS o SSH cualquiera funciona, y, haz click en el icono para copiar la URL. Ahora tienes una copia del proyecto. Podras trabajar con el desde tu computadora.
 
-- Corre el siguiente codigo en tu terminal (Command Pront, Powershell, Terminal, Bash, ZSH). Haz esto para descargar el proyecto al que le hiciste `Fork` en tu computadora.
+- Corre el siguiente codigo en tu terminal (Command Prompt, Powershell, Terminal, Bash, ZSH). Haz esto para descargar el proyecto al que le hiciste `Fork` en tu computadora.
 
 ```bash
   git clone https://github.com/TU-USUARIO-DE-GITHUB/github-practice.git
@@ -91,46 +91,20 @@ o
 > **Warning**: Si te da un mensaje de error como el que muestro debajo, probablemente hayas olvidado hacer fork al repositorio antes de clonarlo en tu computadora. Lo mejor es empezar de nuevo y hacer fork al proyecto primero.
 
 ```bash
-ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+ERROR: Permission to juniorrestituyo/github-practice.git denied to <tu-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
 8. Levanta un Pull Request:
 
-- Ve a la pagina de Github, luego a tu proyecto - arriba en la seccion de los archivos, veras un nuevo boton que indica `Compare & Pull Request`
+- Ve a Github, luego a tu repositorio - arriba en la seccion de los archivos, veras un nuevo boton que indica `Compare & Pull Request`
 
-- Haz click en ese boton, esto te enviara a una nueva pagina, comparando el branch local contra el repositorio al que hiciste fork. Haz click en el boton verde `Create Pull Request`.
+- Haz click en ese boton, esto te enviara a una nueva pagina, comparando tu branch local contra el repositorio original al que hiciste fork. Haz click en el boton verde `Create Pull Request`.
 
 Nota: un Pull Request te permite unir tus cambios con el proyecto original.
 
 Hurray! You successfully made your first contribution! 🎉
-
----
-
-### Opcion 2. Completa el proceso en Github (En tu navegador)
-
-1. Haz Fork al proyecto:
-
-- Haz click al boton gris <kbd>Fork</kbd> que se encuentra arriba a la derecha de esta pagina. Esto creara una copia del proyecto o lo guardara como un nuevo repositorio en tu cuenta de Github.
-
-2. Crea un nuevo Branch:
-
-- En tu nuevo repositorio, haz click en el boton gris main que se encuentra arriba la derecha.
-- Ingresa el nombre de tu nuevo branch en la caja de texto. (Los nombres de Branch normalmente se refiera a lo que estas trabajando. Por ejemplo: nameAdd).
-- Haz click en Create branch <new branch name>, esto automaticamente te llevara a tu nuevo branch. Podras hacer tu edicion en el branch principal, pero esto puede causar problemas. Las mejores practicas es crear un nuevo branch para cada Issue que estes trabajando. De esta manera tu branch principal estara asincrono con el proyecto real.
-
-3. Editar:
-
-- Arriba a la derecha del archivo Readme.md, haz click en el icono del lapiz para editar el archivo agregando tu nombre.
-- Despues de editar el archvio Readme.md, agrega un commit con un comentario y haz click en el boton verde que dice "Commit Changes". Asegurate que estas en el branch que creaste para la ediccion.
-
-4. Levanta un Pull Request:
-
-- Haz click en `Pull Requests` (Es la tercera opcion que se encuentra arriba despues de las opciones `Code` y `Issues`).
-- Haz click en el boton verde `New Pull Request`. Esto preparada un nuevo pull request para ti auto-filling el repositorio base: base con 'juniorrestituyo: main' AND auto-filling tu repositorio: comparado con tu repositorio: main
-- Haz click en `compare` en tu repositorio, y cambia el branch de 'main' al branch que hiciste '<new branch name>'.
-- Finalmente, haz click en el boton verde `Create Pull Request`. Gret Job! You did it!
 
 ---
 
@@ -210,6 +184,7 @@ Hurray! You successfully made your first contribution! 🎉
 | [Back To Top](#contents) |
 
 - ### **R**
+- [Roberto Jr. Restituyo](http://github.com/juniorrestituyo)
 
 | [Back To Top](#contents) |
 
