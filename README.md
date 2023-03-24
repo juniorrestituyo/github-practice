@@ -124,6 +124,7 @@ Hurray! You successfully made your first contribution! 🎉
 | [Back To Top](#contents) |
 
 - ### **C**
+- [Christh Alexander Peralta Solano](https://github.com/christh03)
 
 | [Back To Top](#contents) |
 
