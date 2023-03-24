@@ -15,7 +15,7 @@ Repositorio para que puedas practicar con tu primer Github Pull Request
 - Ve a tu perfil. Encontraras el nuevo repositorio llamado **_github-practice_**. Haz click en el.
 - Haz click en el boton verde `Code`, luego puede elegir entre HTTPS o SSH cualquiera funciona, y, haz click en el icono para copiar la URL. Ahora tienes una copia del proyecto. Podras trabajar con el desde tu computadora.
 
-- Corre el siguiente codigo en tu terminal (Command Pront, Powershell, Terminal, Bash, ZSH). Haz esto para descargar el proyecto al que le hiciste `Fork` en tu computadora.
+- Corre el siguiente codigo en tu terminal (Command Prompt, Powershell, Terminal, Bash, ZSH). Haz esto para descargar el proyecto al que le hiciste `Fork` en tu computadora.
 
 ```bash
   git clone https://github.com/TU-USUARIO-DE-GITHUB/github-practice.git
